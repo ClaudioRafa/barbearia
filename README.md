@@ -1,1 +1,1 @@
-# barbearia
+# barbeária

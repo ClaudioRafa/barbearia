@@ -92,7 +92,7 @@ barbearia/
 
 ## Sobre o pedido de usar Supabase
 
-O cliente original pediu Supabase (PostgreSQL), mas este projeto foi construído
+O cliente original pediu Supabase (mysl-front), mas este projeto foi construído
 em PHP + MySQL por decisão sua, para se encaixar no seu ambiente XAMPP atual.
 Toda a lógica de negócio (regras de horário, bloqueios, permissões) está
 implementada da mesma forma — a diferença é só o banco por trás.
